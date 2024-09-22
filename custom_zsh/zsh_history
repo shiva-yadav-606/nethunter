@@ -1,0 +1,1799 @@
+: 1708113770:0;cd .oh-my-zsh/plugins/l
+: 1708113778:0;cd .oh-my-zsh/plugins/
+: 1708113798:0;ls |grep "g"
+: 1708113805:0;ls |grep "git"
+: 1708113942:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1708114182:0;z wro
+: 1708114313:0;z back
+: 1708115074:0;cd /mnt/d/"WORKING BACKUP"
+: 1708115080:0;z wor
+: 1708115118:0;cat .zhistory
+: 1708115137:0;cat .zsh_history
+: 1708115228:0;cd 12.
+: 1708115250:0;node timer.sj
+: 1708362631:0;chsh
+: 1708367962:0;mkdir pl
+: 1708368009:0;cd /mnt/d/"WORKING BACKUP"cd
+: 1708368036:0;rmdir pl
+: 1708369914:0;mv 'zshrc (2)' .zshrc2
+: 1708370169:0;npm -v
+: 1708382983:0;install timeshift -y
+: 1708383013:0;install vim
+: 1708383460:0;install wget
+: 1708383467:0;install curl
+: 1708383476:0;install gi
+: 1708383478:0;install git
+: 1708383589:0;ip config
+: 1708383919:0;git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+: 1708383976:0;cd WhiteSur-gtk-theme
+: 1708384089:0;./install.sh -m -t -all -l -c Dark -N stable --normal --round -i ubuntu
+: 1708384117:0;./install.sh -m -t all -l -c Dark -N stable --normal --round -i ubuntu
+: 1708384197:0;sudo ./tweaks.sh -g
+: 1708384305:0;sudo ./tweaks.sh -f
+: 1708413812:0;vim grub
+: 1708416606:0;sudo vim /boot/grub/grub.cfg
+: 1708419894:0;history
+: 1708419919:0;cd /etc/default
+: 1708419930:0;cd grub
+: 1708419990:0;git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes\
+cd Top-5-Bootloader-Themes\
+sudo ./install.sh
+: 1708421025:0;sudo re
+: 1708421636:0;./install.sh
+: 1708422985:0;nano grub.cfg
+: 1708424236:0;z Top-5-Bootloader-Themes
+: 1708426064:0;sudo nano grub.cfg
+: 1708426547:0;install gedit
+: 1708426861:0;sudo gedit grub
+: 1708426880:0;sudo gedit grub.cfg
+: 1708446520:0;python --v
+: 1708446527:0;python3 --v
+: 1708446535:0;python3 -v
+: 1708446569:0;touch script.py
+: 1708446602:0;alias py=python3
+: 1708446972:0;nano script.py
+: 1708447004:0;py script.py
+: 1708457418:0;sudo apt-get install unity-tweak-tool
+: 1708458414:0;cd /usr/share
+: 1708458425:0;ls |grep "app"
+: 1708458433:0;cd applications
+: 1708458617:0;sudo apt purge unity-tweak-tool
+: 1708458638:0;whereis unity-tweak-tool
+: 1708458648:0;wich unity-tweak-tool
+: 1708458655:0;which unity-tweak-tool
+: 1708458850:0;ls- a
+: 1708459290:0;cd .Top-5-Bootloader-Themes
+: 1708460868:0;cd ubuntu-1080p
+: 1708460952:0;nano grub
+: 1708461731:0;cd darkmatter
+: 1708461752:0;which darkmatter
+: 1708461759:0;whereis darkmatter
+: 1708461850:0;sudo mv /home/mama/Downloads/grub loaders/ubuntu-1080p/darkmatter /boot/grub/themes\
+\
+
+: 1708461884:0;sudo mv /home/mama/Downloads/'grub loaders'/ubuntu-1080p/darkmatter /boot/grub/themes\
+\
+
+: 1708462108:0;sudo mv /home/mama/Downloads/'grub loaders'/GTG-grub-theme/grub_gtg-main /boot/grub/themes\
+\
+
+: 1708462190:0;sudo cp /home/mama/Downloads/'grub loaders'/wrench-1080p/dedsec /boot/grub/themes\
+\
+
+: 1708462332:0;sudo cp -r /home/mama/Downloads/'grub loaders'/wrench-1080p/dedsec /boot/grub/themes\
+\
+
+: 1708462399:0;sudo cp -r /home/mama/Downloads/'grub loaders'/CyberEXS-1.0.0/CyberEXS /boot/grub/themes\
+\
+
+: 1708462947:0;sudo cp /home/mama/Downloads/Top-5-Bootloader-Themes/themes/CyberRe/background.png /boot/grub/themes/Vimix\
+
+: 1708627583:0;
+: 1708464083:0;sudo cp /boot/grub/themes/darkmatter/icons /boot/grub/themes/CyberRe\
+
+: 1708464095:0;sudo cp -r /boot/grub/themes/darkmatter/icons /boot/grub/themes/CyberRe\
+
+: 1708464277:0;cd /boot/grub/
+: 1708464283:0;cd themes
+: 1708464337:0;sudo rm icons
+: 1708464346:0;sudo rmdir icons
+: 1708464353:0;cd icons
+: 1708464396:0;rm antergos.png
+: 1708464421:0;rm archlinux.png    fedora.png     linuxmint.png       shutdown.png\
+
+: 1708464441:0;rm arch.png         find.efi.png   linux.png           siduction.png\
+arcolinux.png    find.none.png  lubuntu.png         solus.png\
+cancel.png       gentoo.png     macosx.png          steamos.png\
+chakra.png       gnu-linux.png  mageia.png          type.png\
+debian.png       help.png       Manjaro.i686.png    tz.png\
+deepin.png       kali.png       manjaro.png         ubuntu.png\
+devuan.png       kaos.png       Manjaro.x86_64.png  unknown.png\
+driver.png       kbd.png        memtest.png         unset.png\
+edit.png         korora.png     opensuse.png        void.png\
+efi.png          kubuntu.png    pop-os.png          windows.png\
+elementary.png   lang.png       recovery.png        xubuntu.png\
+endeavouros.png  lfs.png        restart.png\
+\
+
+: 1708464545:0;cd ..\
+
+: 1708464559:0;rm -r icons
+: 1708464602:0;sudo cp -r /boot/grub/themes/darkmatter/icons /boot/grub/themes/Vimix\
+
+: 1708465310:0;z themes
+: 1708466017:0;cd Downloads/Top-5-Bootloader-Themes
+: 1708466023:0;sudo ./install.sh
+: 1708468568:0;sudo mv windows11.png 'Windows 11.png'\
+
+: 1708468577:0;ls |grep "win"
+: 1708468800:0;cd /boot/grub/grub.cfg
+: 1708469073:0;sudo mv windows11.png Windows_11.png\
+
+: 1708469109:0;sudo mv windows11.png Windows-11.png\
+
+: 1708469143:0;sudo mv 'Windows 11'.png Windows_11.png\
+
+: 1708469148:0;ls |grep "Win"
+: 1708469453:0;sudo rm -r icons
+: 1708470224:0;sudo cp -r /boot/grub/themes/CyberRe/droidlogo_bold_26.pf2  /boot/grub/themes/Vimix
+: 1708470444:0;sudo nano grub
+: 1708495544:0;install flatpak
+: 1708496006:0;cd /boot/grub/themes
+: 1708496431:0;sudo gedit /usr/share/gnome-shell/theme/gnome-shell.css
+: 1708496504:0;open  /usr/share/gnome-shell/theme/
+: 1708497859:0;sudo gedit /boot/grub/grub.cfg
+: 1708498602:0;sudo gedit /etc/default/grub
+: 1708498800:0;cd /usr/share/gnome-shell/theme
+: 1708592543:0;cd root
+: 1708593122:0;install nautilus
+: 1708593315:0;sudo rm -r cyberhack
+: 1708593582:0;sudo rm background.png
+: 1708595360:0;nano test.py
+: 1708607599:0;sudo apt install imagemagick
+: 1708607911:0;sudo apt install nautilus-image-converter
+: 1708610581:0;sudo snap install nautilusfilemanager --edge
+: 1708617850:0;open /boot/grub/themes
+: 1708627403:0;open /boot/grub/themes/custom
+: 1708627442:0;sudo nano /etc/default/grub
+: 1708627564:0;cd Documents
+: 1708627572:0;rm grub.cfg
+: 1708641826:0;cd /etc/
+: 1708641834:0;ls |grep "grub"
+: 1708641840:0;cd grub.d
+: 1708641865:0;vim 40_custom
+: 1708642023:0;sudo vim 40_custom
+: 1708642054:0;cat 40_custom
+: 1708642340:0;open /boot/grub/themes/
+: 1708686366:0;sudo rm -r linux-tux
+: 1708687234:0;cd .code
+: 1708687247:0;cd cohort/teslalandingpage
+: 1708687282:0;open tesla.html
+: 1708687305:0;open logo.svg
+: 1708687479:0;z /etc/default/
+: 1708688487:0;z .code
+: 1708688852:0;open /bin/gnome-calculator
+: 1708688864:0;run /bin/gnome-calculator
+: 1708688890:0;cd /bin
+: 1708688893:0;sls
+: 1708688922:0;ls -l|grep "gnome"
+: 1708688941:0;open gnome-terminal
+: 1708688982:0;open gnome-calculator
+: 1708689112:0;./gnome-clocks
+: 1708691885:0;z bi
+: 1708691906:0;ls -l|grep "gnome-"
+: 1708691931:0;./gnome-power-statistics
+: 1708691994:0;/bin/./gnome-calculator
+: 1708692016:0;/bin/./gnome-clock
+: 1708692020:0;/bin/./gnome-clocks
+: 1708753779:0;sudo nano /boot/grub/themes/custom/theme.txt
+: 1708766754:0;cd sweet-master
+: 1708766794:0;dc Downloads/sl
+: 1708766810:0;cd Downloads/sl
+: 1708776543:0; j vj fjjbj jkb jkbb
+: 1708806055:0;python3 script.py
+: 1708851721:0;timedatectl set-local-rtc 1 --adjust-system-clock
+: 1708851724:0;timedatectl
+: 1709123870:0;cat /boot/grub/grub.cfg
+: 1709123932:0;cat /etc/default/grub
+: 1709123989:0;sudo nano /etc/grub.d/10_linux
+: 1709124071:0;sudo nano /etc/grub.d/10_linux_zfs
+: 1709124130:0;sudo nano /etc/grub.d/40_custom 
+: 1709126011:0;cd /boot/grub/themes/custom/
+: 1709126025:0;sudo rm select_w.png
+: 1709128983:0;z code
+: 1709129017:0;cat class.js
+: 1709130930:0;install npm
+: 1709131039:0;whereis node
+: 1709215859:0;cd 1.3
+: 1709295944:0;mv '(20) The mindset that changed my life IMMEDIATELY - YouTube - Google Chrome 2_28_2024 11_53_09 PM.png' wallpap
+: 1709296010:0;python3 timer.py
+: 1709296030:0;p
+: 1709298400:0;git remote v-
+: 1709298406:0;git remote-v
+: 1709298425:0;z testrepo
+: 1709298435:0;cd code
+: 1709298449:0;s
+: 1709298454:0;git remote -v
+: 1709298465:0;git add
+: 1709298804:0;git commit -m "new installation ubuntu"
+: 1709298823:0;git push
+: 1709299434:0;node class.js
+: 1709301888:0;node practiseprob.js
+: 1709302128:0;python3 timer.py 
+: 1709364543:0;cd .12
+: 1709364572:0;jvfj
+: 1709364861:0;cd cohort/1.3
+: 1709364869:0;node practise.js
+: 1709366197:0;cd gitlocal/testrepo
+: 1709366219:0;cd protest
+: 1709366228:0;cat readme.txt
+: 1709455697:0;z work/
+: 1709455882:0;cd 1.5
+: 1709468644:0;download ssh
+: 1709468647:0;install ssh
+: 1709468758:0;git clone https://github.com/100xdevs-cohort-2/assignments.git
+: 1709623675:0;z 1.3
+: 1709625429:0;node time.js
+: 1709626072:0;cd 1.2
+: 1709626465:0;node timer.js
+: 1709707142:0;z 2.1
+: 1709707154:0;cd 2.1
+: 1709708931:0;z 1.5
+: 1709709532:0;node a-sync.js
+: 1709714983:0;vim ~/.zshrc
+: 1709715425:0;z cohor
+: 1709715439:0;cd gitlocal
+: 1709716121:0;noded
+: 1709716123:0;node
+: 1709716718:0;cd tests/
+: 1709717381:0;cat anagram.test.js
+: 1709717421:0;cat anagram.js
+: 1709717443:0;vim anagram.js
+: 1709717735:0;z easy
+: 1709718275:0;node anagram.js
+: 1709718288:0;npx jest anagram.test.js
+: 1709718651:0;cd hard
+: 1709718669:0;c medium
+: 1709719146:0;node times.js
+: 1709720406:0;z medium
+: 1709721386:0;node palindrome.js
+: 1709721498:0;npx jest palindrome.test.js
+: 1709723318:0;node countVowels.js
+: 1709723344:0;npx jest countVowels.test.js
+: 1709723690:0;cd week-1
+: 1709723758:0;'/media/mama/New Volume/work/gitlocal/assignments/week-2/01-async-js/hard (promises)/2-sleep-completely.js'
+: 1709723830:0;z week-1
+: 1709723856:0;cd week-2
+: 1710305849:0;cpde
+: 1710306889:0;node promises.js
+: 1710351840:0;history 
+: 1710351934:0;grep .zsh_history | 'grub.cfg\
+\
+'
+: 1710351946:0;grep .zsh_history | 'grub.cfg'
+: 1710394060:0;mkdir 2.2
+: 1710394064:0;cd 2.2
+: 1710396963:0;ping google.com
+: 1710397772:0;z gitlocal/
+: 1710397774:0;z gitlocal
+: 1710397799:0;cd 01-js
+: 1710397854:0;z 
+: 1710397859:0;cd home
+: 1710397871:0;cd wallpap
+: 1710397886:0;open wallpap
+: 1710397923:0;z Desktop
+: 1710397938:0;z des
+: 1710405652:0;cd week-12
+: 1710405779:0;cd week-14
+: 1710480610:0;npm init
+: 1710480814:0;cat index.js
+: 1710484039:0;lsof -i<3000>
+: 1710484044:0;lsof -i 3000
+: 1710484052:0;lsof -i3000
+: 1710484106:0;kill -9 7827
+: 1710484120:0;kill -9 12172
+: 1710484185:0;kill -9 12516
+: 1710484195:0;kill -9 5232
+: 1710484457:0;kill -9 12630
+: 1710484475:0;kill -9 12803
+: 1710652057:0;open index.js
+: 1710652200:0;install preload
+: 1710653114:0;	npm install nodemod
+: 1710653137:0;	npm install body-parser
+: 1710653229:0;node nodemod index.js
+: 1710653309:0;npx nodemod index.js
+: 1710653552:0;npm install nodemon
+: 1710653587:0;npx kill-port 3000 node.js
+: 1710656648:0;ls newdir
+: 1710656654:0;ls -l newdir
+: 1710656697:0;ls 1.2
+: 1710656707:0;ls -t
+: 1710656729:0;ls -r
+: 1710656748:0;ls -r cohort
+: 1710656757:0;ls -R cohort
+: 1710656766:0;cd cohort
+: 1710656772:0;ls -R
+: 1710656810:0;ls -R |grep 'js'
+: 1710656848:0;ls -R cohort |grep 'js'
+: 1710688911:0;ipconfig
+: 1710693037:0;npx kill-port 3000 
+: 1710750523:0;ld
+: 1710752170:0;npx nodemon test.js
+: 1710752835:0;npx kill-port 3001
+: 1710752874:0;lsof -i:3001
+: 1710752894:0;npx nodemon example.js
+: 1710779432:0;sudo apt install libusb-1.0-0 libusb-1.0-0-dev
+: 1710779460:0;./configure
+: 1710779477:0;make
+: 1710779483:0;sudo make install
+: 1710779520:0;sudo rogauracore
+: 1710779533:0;sudo rogauracore red
+: 1710780164:0;xset led 3
+: 1710780167:0;xset led 2
+: 1710780173:0;xset led 4
+: 1710780290:0;xset -led backlight
+: 1710780338:0;xset -led 4
+: 1710780354:0;xset -led 3
+: 1710780702:0;sudo apt install git build-essential qtcreator qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools libusb-1.0-0-dev libhidapi-dev pkgconf libmbedtls-dev qttools5-dev-tools\
+
+: 1710780934:0;git clone https://gitlab.com/CalcProgrammer1/OpenRGB
+: 1710781111:0;c
+: 1710781120:0;cd openrgb
+: 1710781128:0;cd openRgb
+: 1710781134:0;cd openRGB
+: 1710781140:0;cd OpenRGB
+: 1710781994:0;kvm-ok
+: 1710781997:0;sudo apt install qemu-system\
+\
+
+: 1710782713:0;z Open
+: 1710782971:0;wget https://openrgb.org/releases/release_0.9/60-openrgb.rules\
+
+: 1710783027:0;qmake OpenRGB.pro
+: 1710783032:0;make -j$(nproc)
+: 1710783103:0;./openrgb
+: 1710783120:0;make install
+: 1710783334:0;kill -9 53825
+: 1710783344:0;sudo apt purge OpenRGB
+: 1710833370:0;unimatrix
+: 1710833377:0;install unimatrix
+: 1710914036:0;node map-filter.js
+: 1710917987:0;z co
+: 1710918016:0;ga .
+: 1710919179:0;cd easy
+: 1710919711:0;node fs.js
+: 1710920360:0;node sol.js
+: 1710920487:0;z me
+: 1710920496:0;z meduim
+: 1710920504:0;z week-2
+: 1710921512:0;cat data.txt
+: 1710922982:0;cd hard\ \(promises\)
+: 1710923406:0;node a
+: 1710923412:0;node await.js
+: 1710924762:0;cd test
+: 1710928256:0;node 1-promisify-setTimeout.js
+: 1710928350:0;npx jest 1-promisify-setTimeout.test.js
+: 1710928546:0;npx jest 2-sleep-completely.test.js
+: 1710928647:0;z tes
+: 1710931884:0;node 3-promise-all.js
+: 1710933548:0;cat test/test.txt
+: 1710933690:0;nano cleaner.js
+: 1710934335:0;cleaner.js code
+: 1710934347:0;code cleaner.js
+: 1710938949:0;node cleaner.js
+: 1710941303:0;node emptyfile.js
+: 1711002612:0;vim
+: 1711003428:0;nvim -v
+: 1711003435:0;neoivm
+: 1711003625:0;rm -rf ~/.config/nvim
+: 1711003636:0;rm -rf ~/.local/share/nvim\
+
+: 1711004766:0;ls |grep "neo"
+: 1711004772:0;ls |grep "nvim"
+: 1711004784:0;sudo rm nvim.desktop
+: 1711004800:0;./nvim-linux64/bin/nvim
+: 1711005185:0;Downloads/squashfs-root/usr/bin/nvim test.txt
+: 1711005297:0;cat etc/shells
+: 1711005358:0;cat usr/etc/shells
+: 1711005362:0;cat usr/etc/shell
+: 1711005370:0;cat etc/shell
+: 1711005396:0;cat /etc/shellss
+: 1711005398:0;cat /etc/shells
+: 1711005625:0;cd Downloads/
+: 1711005636:0;sudo mv nvim.appimage /usr/local/bin/nvim
+: 1711005822:0;cd nvim-linux64
+: 1711005830:0;ls share
+: 1711005861:0;sudo mv nvim.desktop /usr/share/applications
+: 1711006060:0;z app
+: 1711006698:0;sudo add-apt-repository universe\
+sudo apt install libfuse2
+: 1711007148:0;sudo rm nvim
+: 1711007507:0;chmod u+x nvim.appimage && ./nvim.appimage
+: 1711007527:0;./nvim.appimage --appimage-extract
+: 1711007535:0;./squashfs-root/usr/bin/nvim
+: 1711007597:0;AppRun
+: 1711007629:0;./AppRun
+: 1711007884:0;./vim
+: 1711008146:0;./nvim.appimage
+: 1711008202:0;sudo mv nvim.appimage /usr/bin/nvim
+: 1711008207:0;nivm
+: 1711008217:0;whereis nvim
+: 1711008294:0;git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+: 1711008539:0;nvim test.txt
+: 1711008561:0;cat test.txt
+: 1711008582:0;touch & nvim test.js
+: 1711011025:0;./nvim
+: 1711012659:0;lscd
+: 1711013108:0;open /boot/grub/grub.cfg 
+: 1711013118:0;open /boot/grub/
+: 1711013160:0;z cohort
+: 1711013507:0;tmux attach -t 0
+: 1711013659:0;tmux kill -session 1
+: 1711013667:0;tmux kill-session 1
+: 1711013726:0;tmux kill-session 
+: 1711013777:0;tmux new session 0
+: 1711013789:0;tmux new -session 0
+: 1711013834:0;tmux new -s 0
+: 1711014535:0;cd assignments
+: 1711014551:0;cd week-2/01-async-js
+: 1711014627:0;nvim 2-clock.md
+: 1711014641:0;nvim clock.js
+: 1711014695:0;cd medium
+: 1711014701:0;cat clock.js
+: 1711015193:0;alisaes
+: 1711015195:0;alises
+: 1711015199:0;aliases
+: 1711015207:0;cat aliases
+: 1711015524:0;nvim ls
+: 1711015657:0;fg ls
+: 1711015667:0;fg -l
+: 1711016114:0;nvim
+: 1711018378:0;sudo purge nvim
+: 1711018386:0;sudo apt purge nvim
+: 1711018397:0;sudo apt purge neovim
+: 1711052633:0;z 1.2
+: 1711052646:0;s;
+: 1711106567:0;nvim .
+: 1711259732:0;z ass
+: 1711259778:0;node 03-JSON.js
+: 1711259821:0;nvim 03-JSON.js
+: 1711260055:0;touch test.js
+: 1711260062:0;touch test.html
+: 1711260120:0;cd week-2/01-async-js'/media/mama/New Volume/work/test.js'
+: 1711260152:0;'/media/mama/New Volume/work/test.js'
+: 1711260715:0;'/media/mama/New Volume/work/cohort/assignments/week-2/01-async-js/medium/clock.js'
+: 1711260791:0;cd /media/mama/New Volume/work/cohort/assignments/week-2/01-async-js/medium
+: 1711260806:0;cd /media/mama/'New Volume'/work/cohort/assignments/week-2/01-async-js/medium
+: 1711260968:0;cd ./
+: 1711261236:0;nvim deleter.js
+: 1711261287:0;fg
+: 1711262143:0;node work/test.js
+: 1711266939:0;z 2.2
+: 1711267174:0;npx nodemon fileServer.js
+: 1711267806:0;code deleter.js
+: 1711268272:0;cat deleter.js
+: 1711268437:0;gedit deleter.js
+: 1711281886:0;cd 02-nodejs
+: 1711281894:0;cd testse
+: 1711281898:0;cd tests
+: 1711284543:0;node fileServer.js
+: 1711284592:0;npx jest fileServer.test.js 
+: 1711432617:0;whereis youtube
+: 1711432627:0;sudo apt purge youtube
+: 1711432670:0;sudo apt-get remove youtube
+: 1711436437:0;sudo dpkg -i mongodb-compass_1.42.3_amd64.deb
+: 1711437867:0;sudo dpkg -i virtualbox-7.0_7.0.14-161095\~Ubuntu\~jammy_amd64.deb
+: 1711440421:0;npx nodemon express.js
+: 1711453983:0;npm audit
+: 1711454570:0;npx nodemon middleware.js
+: 1711460761:0;history 1
+: 1711461087:0;whereis rsb
+: 1711461103:0;whereis rsa
+: 1711785902:0;whereis yaru
+: 1711785924:0;whereis Yaru
+: 1711786126:0;rm -r Emacs
+: 1711786143:0;rm Emacs
+: 1711786151:0;rmdir Emacs
+: 1711786161:0;sudo rmdir Emacs
+: 1711786185:0;sudo rm -r Emacs
+: 1711792027:0;sudo apt purge virtualbox
+: 1711792041:0;sudo apt --fix-broken install
+: 1711792094:0;upgrade 
+: 1711863343:0;nano deleter.js
+: 1711863365:0;ls Documents
+: 1711863725:0;id
+: 1711863800:0;sudo usermod -a -G vboxusers mama
+: 1711863807:0;groups $USER
+: 1711890990:0;whereis faltpak
+: 1711890995:0;whereis flatpak
+: 1711902605:0;history 1 |grep dpkg
+: 1711903285:0;npm install mangoose
+: 1711951426:0;node clock.js
+: 1712036543:0;ps -p 6092
+: 1712036569:0;ps -p 6428
+: 1712058961:0;ls node_modules
+: 1712058967:0;ls node_modules/
+: 1712058998:0;npm install bcrypt
+: 1712059013:0;ls node_modules|grep bcrypt
+: 1712059035:0;cd node_modules/bcrypt
+: 1712061427:0;code 03-errorcount.js
+: 1712061775:0;node 03-errorcount.js
+: 1712062138:0;npx nodemon 03-errorcount.js
+: 1712062927:0;npm install ts-node
+: 1712062980:0;npm install supertest
+: 1712065525:0;z 02
+: 1712317401:0;z 3.1
+: 1712317624:0;node testing.js 
+: 1712322746:0;z asisi
+: 1712322750:0;z asii
+: 1712322754:0;z assi
+: 1712322772:0;cd week-3/02-jwt/
+: 1712323623:0;node index.js
+: 1712323740:0;z test
+: 1712323754:0;z tests
+: 1712323774:0;cd 02-jwt/tests
+: 1712323827:0;npx jest index.spec.js
+: 1712335894:0;open ./boot
+: 1712337795:0;sudo nautilus
+: 1712338284:0;sudo rm -r 1extras
+: 1712338322:0;mv custom mytheme
+: 1712338329:0;sudo mv custom mytheme
+: 1712338620:0;sudo update-grub
+: 1712339747:0;ls |grep shared
+: 1712339759:0;open VM-shared
+: 1712386005:0;open dom.html
+: 1712392293:0;cd sublime
+: 1712392306:0;cd work/sublime
+: 1712392320:0;touch index.html
+: 1712473934:0;mkdir mov
+: 1712646093:0;touch app-list
+: 1712646110:0;touch installed-software-list
+: 1712727665:0;cd .
+: 1712728552:0;node deleter.js
+: 1712731447:0;lsof -i:5500
+: 1712731471:0;npx kill-port 5500
+: 1712732326:0;z work
+: 1712732344:0;node server.js
+: 1712744425:0;open chromeclock.html
+: 1712744448:0;open countdown.html
+: 1712762977:0;mkdir circle
+: 1712763270:0;open glowingclock.html
+: 1712825890:0;npx jest 03-errorcount.spec.js
+: 1712829683:0;nano boot/
+: 1712840418:0;cd desk
+: 1712840423:0;cd Desktop
+: 1712840507:0;cd ./local
+: 1712840512:0;cd ./local/
+: 1712840844:0;cat chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop
+: 1712840882:0;open chrome-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop
+: 1712840906:0;sudo ./chrome-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop
+: 1712841361:0;rm chrome-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop
+: 1712841368:0;rm chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop
+: 1712841382:0;rm chrome-mpnpojknpmmopombnjdcgaaiekajbnjb-Default.desktop 
+: 1712989661:0;cd .local
+: 1712989686:0;ls share/applications
+: 1712989725:0;cd share/applications
+: 1712989730:0;cat chrome-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop
+: 1712989790:0;./chrome-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop
+: 1713002654:0;diff -r /run/user/1000/gvfs/mtp:host=Nothing_CAPE-QRD__SN%3AA683706F_3aecd706/Internal shared storage/videos export/ /media/mama/New Volume/PERSONAL/nothing 2 files/videos export/
+: 1713002692:0;diff -r /run/user/1000/gvfs/mtp:host=Nothing_CAPE-QRD__SN%3AA683706F_3aecd706/Internal shared storage/'videos export'/ /media/mama/New Volume/PERSONAL/nothing 2 files/'videos export'/
+: 1713002714:0;diff -r /run/user/1000/gvfs/mtp:host=Nothing_CAPE-QRD__SN%3AA683706F_3aecd706/'Internal shared storage'/'videos export'/ /media/mama/'New Volume'/PERSONAL/'nothing 2 files'/'videos export'/
+: 1713003270:0;diff -r 3.2 3.5
+: 1713003292:0;diff -rq 3.2 3.5
+: 1713157147:0;touch index.html script.jss style.css
+: 1714202513:0;nano boot/grub/grub.cfg
+: 1714202547:0;cd boot/grub/grub.cfg
+: 1714202553:0;cd boot/grub/
+: 1714202575:0;sudo nano boot/grub/grub.cfg
+: 1714203522:0;cd usr/share/backgrounds
+: 1714983692:0;sudo apt install code
+: 1714983728:0;snap install code
+: 1714984053:0;snap install bittorrent
+: 1714984091:0;snap install qBittorrent
+: 1714984122:0;sudo snap install qBittorrent
+: 1714984138:0;sudo apt install qBittorrent
+: 1714984275:0;sudo apt-get install qBittorrent
+: 1714985489:0;sudo purge transmission
+: 1714985496:0;sudo apt  purge transmission
+: 1714985519:0;sudo apt  purge Transmission
+: 1714985542:0;sudo apt remove transmission
+: 1714985588:0;sudo apt-get purge transmission-gtk
+: 1714991820:0;./brave
+: 1715063972:0;cd work
+: 1715169790:0;install touchegg
+: 1715187282:0;whereis touchegg
+: 1715192085:0;systemctl touchegg
+: 1715192172:0;sudo add-apt-repository ppa:touchegg/stable
+: 1715192204:0;systemctl check touchegg
+: 1715192218:0;sudo apt install touchegg
+: 1715192243:0;sudo apt update && sudo apt upgrade
+: 1715192257:0;systemctl status touchegg\
+
+: 1715352333:0;wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+: 1715352389:0;oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiuuuuuuuuuuuuuuuuuuuuuuuuyhytttttttttttttttttrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+: 1715504439:0;./usr/share/applications
+: 1715504450:0;usr/share/applications
+: 1715504456:0;cd ./usr/share/applications
+: 1715504468:0;ls |grep gnome
+: 1715504595:0;./org.gnome.Terminal.desktop
+: 1715504606:0;sudo ./org.gnome.Terminal.desktop
+: 1715504635:0;./gnome-search-panel.desktop\
+
+: 1715506837:0;touch test.txt
+: 1715506850:0;vi test
+: 1715506871:0;nano test.txt
+: 1715506923:0;more test.txt
+: 1715668848:0;sudo apt update
+: 1715669484:0;who am i
+: 1715678218:0;sudo passwd shiva
+: 1715678235:0;sudo -i
+: 1715679851:0;sudo apt-get install zbar-tools
+: 1715679899:0;zbarimg qrcode_110803377_2dce252ade82ab20e8dd0669f2c6c085.png
+: 1715679935:0;ping https://me-qr.com/FpMClEdx\
+
+: 1715680245:0;diff gnome-shell.css gnome-shell(2).css
+: 1715680263:0;diff gnome-shell\ \(2\).css gnome-shell.css
+: 1715681389:0;cd 4.2\(2\)
+: 1715681435:0;cd src
+: 1715681729:0;install net-tols
+: 1715681737:0;install net-tools
+: 1715681754:0;ifconfig
+: 1715681772:0;ifconfig | grep inrt
+: 1715681774:0;ifconfig | grep inet
+: 1715681798:0;install htop
+: 1715681917:0;cd src/
+: 1715681932:0;more main.jsx main.jsx
+: 1715681939:0;more main.jsx 
+: 1715686254:0;git add.
+: 1715686317:0;git config --global user.email "shivayadav.123.007@gmail.com"\
+git config --global user.name "shiva"
+: 1715686342:0;ssh-keygen -t rsa -b 4096 -C "shivayadav.123.007@gmail.com"
+: 1715686353:0;eval "$(ssh-agent -s)"
+: 1715686359:0;ssh-add -K ~/.ssh/id_rsa
+: 1715686368:0;cat ~/.ssh/id_rsa.pub
+: 1715686704:0;git add .
+: 1715686710:0;git commit -m 'just commited'
+: 1715686715:0;git status
+: 1715776296:0;cdd
+: 1715776335:0;cd /home
+: 1715776342:0;cd /shiva/snap
+: 1715777675:0;apt list
+: 1715777712:0;apt list|grep libre
+: 1715777751:0;sudo apt-get purge libreoffice* 
+: 1715777754:0;sudo apt-get purge libreoffice
+: 1715777774:0;sudo apt autoremove
+: 1715777855:0;which libreoffice
+: 1715777870:0;which 'libreoffice 24.2'
+: 1715777914:0;sudo apt purge libreoffice
+: 1715777935:0;cd /usr/bin/libreoffice
+: 1715777944:0;open /usr/bin/libreoffice
+: 1715777994:0;sudo apt remove libreoffice
+: 1715778962:0;install synaptic
+: 1715792622:0;install gtop
+: 1715792654:0;install Gtop
+: 1715792853:0;install lm-sensors
+: 1715792869:0;install gir1.2-gtop-2.0
+: 1715795142:0;lsa
+: 1715795144:0;ls -a
+: 1715795165:0;cd Public
+: 1715795402:0;systemctl
+: 1715795422:0;systemctl status ssh
+: 1715842662:0;sudo nano /etc/gdm3/custom.conf
+: 1715844654:0;cd usr/share/applications
+: 1715846036:0;sudo reboot
+: 1715846583:0;install pass
+: 1715846615:0;pass init
+: 1715847086:0;gpg --gen-key
+: 1715847166:0;gpg -K
+: 1715847227:0;pass init 66530A38E5BD1E8D6987552556A042D1F369860A
+: 1715847291:0;pass git init
+: 1715848439:0;  pass 
+: 1715848515:0;pass generate test
+: 1715848532:0;pass test
+: 1715869127:0;pass generate ubuntu/win10@vm/outlook
+: 1715869291:0;pass rm test
+: 1715871686:0;whereis virtualbox
+: 1715871704:0;cd /usr/bin/virtualbox
+: 1715871710:0;cd /usr/bin
+: 1715871712:0;opem .
+: 1716397553:0;tmux 
+: 1716397796:0;ls -l
+: 1716453833:0;node script.js
+: 1716455425:0;install nala
+: 1716455953:0;diff VirtualBox\ VMs vm\ shared\ folder
+: 1716456792:0;nvidia-smi
+: 1716458203:0;open .
+: 1716458247:0;npm run dev
+: 1716458279:0;npm run dev
+: 1716458387:0;ls
+: 1716458392:0;ls
+: 1716459349:0;lsusb
+: 1716459436:0;sudo fdisk -l
+: 1716459621:0;sudo fdisk -l
+: 1716459625:0;sudo apt install ntfs-3g
+: 1716459643:0;sudo ntfsfix -b /dev/{mount_point}
+: 1716459656:0;chkdsk
+: 1716459685:0;sudo ntfsfix -b /dev/sda1
+: 1716459776:0;whereis media
+: 1716459810:0;sudo mkdir /media/External-HDD
+: 1716459823:0;sudo mount -t ntfs-3g /dev/sda1/media/External-HDD\
+
+: 1716459836:0;systemctl daemon-reload
+: 1716459845:0;sudo mount -t ntfs-3g /dev/sda1/media/External-HDD\
+
+: 1716460064:0;lsblk
+: 1716460173:0;sudo mount /dev/sda1
+: 1716460184:0;sudo mount /dev/sda 
+: 1716460207:0;sudo mount /dev/sda1 ~/temp
+: 1716460223:0;sudo mount /dev/sda1 /temp
+: 1716460245:0;sudo mount /dev/sda1 ~/temp
+: 1716460367:0;sudo fsck /dev/sda1
+: 1716460401:0;sudo ntfsfix /dev/sda1
+: 1716460469:0;htop
+: 1716470732:0;code .
+: 1716474445:0;npx nodemon index.js
+: 1716474484:0;npm install express
+: 1716474502:0;npm install mongoose
+: 1716474510:0;npx nodemon index.js
+: 1716474607:0;cd ..
+: 1716474611:0;cd ..
+: 1716474617:0;ls
+: 1716474622:0;cd 04-mongo-with-jwt-auth
+: 1716474630:0;npm install mongoose
+: 1716474647:0;npm audit fix
+: 1716474658:0;npm install express
+: 1716475744:0;npx kill-port 3000
+: 1716475798:0;ls
+: 1716475824:0;npx nodemon index.js
+: 1716475847:0;lsof -i:3000
+: 1716475907:0;kill -9 25437
+: 1716475910:0;kill -9 25437
+: 1716475940:0;npx nodemon index.js
+: 1716537114:0;update
+: 1716537123:0;upgrade -y
+: 1716537792:0;npx nodemon index.js
+: 1716553806:0;htop
+: 1716885184:0;cd /
+: 1716885187:0;ls
+: 1716885195:0;cd usr/shared
+: 1716885208:0;cd usr
+: 1716885209:0;ls
+: 1716885215:0;cd share/themes
+: 1716885216:0;ls
+: 1716885219:0;open .
+: 1716896290:0;ls
+: 1716896296:0;cd ..
+: 1716896298:0;ls
+: 1716896305:0;npx nodemon index.js
+: 1716896631:0;npx kill
+: 1716896647:0;npx kill port 3000
+: 1716896653:0;npx kill port 3000
+: 1716896690:0;lsof -i:3000
+: 1716896698:0;npx nodemon index.js
+: 1716896837:0;npx nodemon index.js
+: 1716975922:0;cd ..
+: 1716975930:0;npm install zod
+: 1716975942:0;npm install jsonwebtoken
+: 1716975954:0;npm fund
+: 1717055983:0;update
+: 1717056814:0;upgrade
+: 1717060600:0;clear
+: 1717060601:0;ls
+: 1717063323:0;open .
+: 1717063340:0;code .
+: 1717065530:0;node test
+: 1717065534:0;node testing.js
+: 1717065597:0;node testing.js
+: 1717065644:0;node testing.js
+: 1717065659:0;node testing.js
+: 1717065702:0;node testing.js
+: 1717655130:0;update
+: 1717655146:0;update
+: 1717655156:0;upgrade -y
+: 1717655354:0;pass
+: 1717655803:0;pass grep 'shiva'
+: 1717655881:0;pass show ubuntu/win10@vm/outlook
+: 1717657809:0;node test.js
+: 1717657823:0;node test.js
+: 1717659176:0;node test.js
+: 1717659188:0;node test.js
+: 1717659358:0;node test.js
+: 1717659382:0;node test.js
+: 1717661214:0;ls
+: 1717661221:0;node index.html
+: 1717661231:0;open index.html
+: 1717661436:0;open .
+: 1717672418:0;ls
+: 1717672423:0;node test.js
+: 1717672574:0;z 5.1
+: 1717672575:0;ls
+: 1717672579:0;node test.js
+: 1717672587:0;node test.js
+: 1717672610:0;node test.js
+: 1717672855:0;vi ~/.zshrc
+: 1717672957:0;nano ~/.zshrc
+: 1717673075:0;source ~/.zshrc
+: 1717673076:0;ls
+: 1717673077:0;ls
+: 1717673084:0;nano ~/.zshrc
+: 1717673111:0;source ~/.zshrc
+: 1717673114:0;ls
+: 1717673129:0;nano ~/.zshrc
+: 1717673141:0;source ~/.zshrc
+: 1717673142:0;ls
+: 1717673157:0;nano ~/.zshrc
+: 1717673281:0;source ~/.zshrc
+: 1717673283:0;ls
+: 1717674463:0;ls
+: 1717674466:0;clear
+: 1717674477:0;clear
+: 1717758608:0;htop
+: 1717758667:0;lsof -i:3000
+: 1717758683:0;lsof -i:7727
+: 1717761960:0;lsof -i:3000
+: 1717955840:0;nvidia-smi
+: 1718120988:0;update
+: 1718121032:0;upgrade -y
+: 1718124177:0;code .
+: 1718285940:0;code --verbose
+: 1718286018:0;rm -rf /home/<user>/.config/Code \
+
+: 1718286030:0;rm -rf /home/shiva/.config/Code \
+
+: 1718286349:0;sudo code --usr-data-dir
+: 1718286362:0;snap info code
+: 1718286386:0;sudo snap revert code
+: 1718286409:0;sudo snap refresh code
+: 1718286419:0;update and upgrade -y
+: 1718286423:0;update and upgrade
+: 1718286429:0;update 
+: 1718286467:0;apt list --upgradable
+: 1718286476:0;upgrade -y
+: 1718286675:0;dpkg -i code_1.90.0-1717531825_amd64.deb
+: 1718286682:0;sudo dpkg -i code_1.90.0-1717531825_amd64.deb
+: 1718286718:0;cd
+: 1718286723:0;sudo purge code
+: 1718286738:0;sudo remove code
+: 1718286806:0;sudo dpkg -i code_1.90.0-1717531825_amd64.deb
+: 1718286855:0;ps -p 6516
+: 1718287028:0;cd Downloads
+: 1718287030:0;l
+: 1718287031:0;ls
+: 1718287042:0;dpkg -i code_1.90.0-1717531825_amd64.deb
+: 1718287049:0;sudo dpkg -i code_1.90.0-1717531825_amd64.deb
+: 1718344865:0;git pull
+: 1718345329:0;ls
+: 1718345332:0;node test.js
+: 1718345399:0;code .
+: 1718345468:0;ls
+: 1718345554:0;code .
+: 1718348618:0;npm create vite@latest
+: 1718348683:0;cd counter-app
+: 1718348688:0;npm install
+: 1718348738:0;npm run dev
+: 1718348782:0;code .
+: 1718434972:0;ls
+: 1718434993:0;open guns.jpg
+: 1718452246:0;htop
+: 1718601775:0;update
+: 1718601863:0;apt list --upgradable
+: 1718602063:0;upgrade snapd
+: 1719236007:0;lsof -i:3000
+: 1719236084:0;code
+: 1719500720:0;update
+: 1719500733:0;apt list --upgradable
+: 1719502903:0;htop
+: 1719502970:0;nvidia-smi
+: 1719502985:0;nvidia-smi
+: 1720121634:0;whoami
+: 1720121638:0;pwd
+: 1720121648:0;ls
+: 1720121652:0;cd wall
+: 1720121653:0;ls
+: 1720334846:0;ls
+: 1720334903:0;www.google.com
+: 1720334909:0;google-chrome
+: 1720345361:0;sl
+: 1720796257:0;lklknanvlk
+: 1720796413:0;pwd
+: 1720796466:0;cd /work
+: 1720796469:0;ls
+: 1721129494:0;update
+: 1721129512:0;upgrade
+: 1721197967:0;neovim
+: 1721197971:0;neofetch
+: 1721197986:0;install neofetch
+: 1721200819:0;neofetch
+: 1721389116:0;python 3.1
+: 1721389123:0;python3.1
+: 1721389129:0;python3
+: 1721390145:0;python --version
+: 1721390373:0;python3
+: 1721390426:0;pip install mysql-connector-python
+: 1721393888:0;history 1 
+: 1721393903:0;python3 pip install mysql-connector-python
+: 1721393923:0;sudo install mysql-connector-python
+: 1721393936:0;sudo apt install mysql-connector-python
+: 1721394269:0;sudo apt update\
+
+: 1721394335:0;sudo apt upgrade
+: 1721394391:0;python3 pip list
+: 1721394445:0;sudo apt install python3-pip\
+
+: 1721394505:0;pip3 install mysql-connector-python\
+
+: 1721394529:0;sudo apt install python3-mysql.connector\
+
+: 1721394561:0;python3 -c "import mysql.connector; print(mysql.connector.__version__)"\
+
+: 1721394582:0;history 1 
+: 1721584440:0;neofetch
+: 1721739879:0;hytop
+: 1721739883:0;htop
+: 1721986943:0;htop
+: 1721989071:0;sudo apt-get install arandr
+: 1721990917:0;update
+: 1721990931:0;upgrade -y
+: 1722019409:0;vi ~/.zshrc
+: 1722064030:0;install simplescreenrecorder
+: 1725305446:0;ls
+: 1725305448:0;ls
+: 1725305469:0;neofetch
+: 1725305474:0;ls
+: 1725305489:0;which nala
+: 1725305495:0;install tmux
+: 1725305507:0;tmux
+: 1725305516:0;tmux ls
+: 1725305744:0;cd Downloads
+: 1725305751:0;dpkg -i google-chrome-stable_current_amd64.deb
+: 1725305757:0;sudo dpkg -i google-chrome-stable_current_amd64.deb
+: 1725306590:0;history 1 |grep ollama
+: 1725306593:0;history 1 |grep ollamma
+: 1725306617:0;curl -fsSL https://ollama.com/install.sh | sh
+: 1725307028:0;ollama run llama3
+: 1725311366:0;ls
+: 1725311377:0;nano ~/.zshrc
+: 1725311507:0;cd Downloads
+: 1725311508:0;ls
+: 1725311516:0;nano ~/.zshrc
+: 1725311552:0;nano ~/.zshrc
+: 1725312361:0;cd Downloads
+: 1725312364:0;ls
+: 1725312511:0;ls
+: 1725312716:0;ls
+: 1725313050:0;ls
+: 1725313058:0;nano ~/.zshrc
+: 1725313502:0;source ~/.zshrc
+: 1725313506:0;nano ~/.zshrc
+: 1725313650:0;ls
+: 1725313712:0;ls
+: 1725313928:0;which terminal
+: 1725313934:0;which kitty
+: 1725316038:0;touch test.py
+: 1725316041:0;ls
+: 1725316049:0;chmod +x test.py
+: 1725316050:0;ls
+: 1725316055:0;./test.py
+: 1725316064:0;install neovim
+: 1725316085:0;install python3
+: 1725316105:0;nvim test.py
+: 1725316132:0;./test.py
+: 1725316137:0;nvim test.py
+: 1725316215:0;nvim test.py
+: 1725316230:0;./test.py
+: 1725316249:0;nvim test.py
+: 1725316271:0;./test.py
+: 1725316281:0;nvim test.py
+: 1725316301:0;./test.py
+: 1725316324:0;python3 test.py
+: 1725316331:0;nvim test.py
+: 1725316357:0;./test.py
+: 1725316359:0;python3 test.py
+: 1725316366:0;nvim test.py
+: 1725316379:0;python3 test.py
+: 1725316384:0;nano ~/.zshrc
+: 1725316415:0;py test.py
+: 1725316419:0;source ~/.zshrc
+: 1725316424:0;py test.py
+: 1725316431:0;nano ~/.zshrc
+: 1725316456:0;source ~/.zshrc
+: 1725316457:0;la
+: 1725316458:0;ls
+: 1725316463:0;py test.py
+: 1725316728:0;sudo nano /boot/grub/grub.cfg
+: 1725316816:0;sudo reboot now
+: 1725361813:0;neofetch
+: 1725361831:0;cmatrix
+: 1725361846:0;install cmatrix
+: 1725361857:0;cmatrix
+: 1725362176:0;ls
+: 1725362201:0;nvim ~/.zshrc
+: 1725362247:0;sudo cp /home/shiva/Pictures/ALLqk82.png .
+: 1725362533:0;htop
+: 1725365110:0;which clock
+: 1725365866:0;ls
+: 1725365871:0;./setup.sh
+: 1725365887:0;ls
+: 1725365891:0;cd 
+: 1725365891:0;ls
+: 1725365899:0;cd .config
+: 1725365900:0;ls
+: 1725365908:0;cd rofi
+: 1725365910:0;ls
+: 1725365917:0;cd launchers
+: 1725365918:0;ls
+: 1725365924:0;cd type-1
+: 1725365925:0;ls
+: 1725365930:0;./launcher.sh
+: 1725365951:0;install rofi
+: 1725365963:0;./launcher.sh
+: 1725365976:0;./launcher.sh
+: 1725366049:0;ls
+: 1725366052:0;./powermenu.sh
+: 1725443637:0;llm
+: 1725443643:0;alias
+: 1725443660:0;ollama run gemma
+: 1725445523:0;ollama run gemma
+: 1725445630:0;ollama run llama3
+: 1725445868:0;htop
+: 1725454195:0;cmatrix
+: 1725454669:0;open downloads
+: 1725454681:0;open Downloads
+: 1725454710:0;find /home/shiva/Downloads -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" \)
+: 1725454773:0;ls
+: 1725454774:0;ls
+: 1725454820:0;which kitty
+: 1725454823:0;ls
+: 1725455100:0;ls
+: 1725455105:0;cd /
+: 1725455108:0;cd mnt
+: 1725455109:0;ls
+: 1725455145:0;ls
+: 1725455146:0;ls
+: 1725455147:0;ls
+: 1725455148:0;ls
+: 1725455154:0;cd 00C283FDC283F4E6/
+: 1725455155:0;ls
+: 1725455158:0;cd WORK/
+: 1725455159:0;ls
+: 1725455163:0;z W
+: 1725455171:0;ls
+: 1725455201:0;display the folders in current dir
+: 1725455882:0;ls -d */
+: 1725456051:0;ls
+: 1725456104:0;chmod +x cursor-0.40.3x86_64.AppImage
+: 1725456105:0;ls
+: 1725456110:0;./cursor-0.40.3x86_64.AppImage 
+: 1725456408:0;nvim ~/.zshrc
+: 1725456429:0;cd Downloads
+: 1725456430:0;ls
+: 1725456445:0;cd
+: 1725456521:0;source ~/.zshrc
+: 1725456523:0;ls
+: 1725456528:0;cursor
+: 1725457879:0;cd
+: 1725457890:0;git clone https://github.com/ohmyzsh/ohmyzsh.git
+: 1725457920:0;cd ohmyzsh
+: 1725457921:0;ls
+: 1725457941:0;chmod +x oh-my-zsh.sh
+: 1725457942:0;ls
+: 1725457947:0;./oh-my-zsh.sh
+: 1725457982:0;chsh
+: 1725458067:0;\
+\
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\
+
+: 1725458072:0;ls
+: 1725458084:0;cd
+: 1725458114:0;nano ~/.zshrc
+: 1725458218:0;source ~/.zshrc
+: 1725458346:0;nano ~/.zshrc
+: 1725458364:0;source ~/.zshrc
+: 1725458368:0;ls
+: 1725458374:0;cd Downloads
+: 1725458375:0;ls
+: 1725458412:0;nano ~/.zshrc
+: 1725458429:0;source ~/.zshrc
+: 1725458459:0;z W
+: 1725458477:0;ls
+: 1725458524:0;nano ~/.zshrc
+: 1725458540:0;source ~/.zshrc
+: 1725458549:0;nano ~/.zshrc
+: 1725458566:0;source ~/.zshrc
+: 1725458568:0;ls
+: 1725458571:0;z D
+: 1725458573:0;ls
+: 1725458958:0;nano ~/.zshrc
+: 1725459008:0;source ~/.zshrc
+: 1725459031:0;nano ~/.zshrc
+: 1725459042:0;source ~/.zshrc
+: 1725459044:0;ls
+: 1725459115:0;htop
+: 1725459520:0;neofetch
+: 1725459543:0;install fastfetch
+: 1725459553:0;install --help
+: 1725459568:0;nano ~/.zshrc
+: 1725459610:0;cat .zshrc.pre-oh-my-zsh
+: 1725459666:0;source ~/.zshrc
+: 1725459678:0;install fastfetch
+: 1725460462:0;git clone https://github.com/dharmx/walls.git
+: 1725466475:0;cd walls
+: 1725466476:0;ls
+: 1725466481:0;open .
+: 1725563784:0;ls
+: 1725563786:0;neofetch
+: 1725563792:0;fastfetch
+: 1725611368:0;ls
+: 1725612267:0;ollama run gemma
+: 1725613533:0;htop
+: 1725613566:0;btop
+: 1725613573:0;install btop
+: 1725613591:0;btop
+: 1725613617:0;tmux
+: 1725613619:0;ls
+: 1725613620:0;btop
+: 1725613623:0;htop
+: 1725613626:0;ls
+: 1725613662:0;tmux attach -t 0
+: 1725613665:0;ls
+: 1725613670:0;htop
+: 1725613674:0;ls
+: 1725613683:0;tmux attach -t 0
+: 1725613824:0;l
+: 1725613825:0;ls
+: 1725613828:0;l
+: 1725613845:0;cd /
+: 1725613847:0;cd mnt
+: 1725613848:0;ls
+: 1725613855:0;z Work
+: 1725613857:0;ls
+: 1725613858:0;pwd
+: 1725613882:0;cat cmds.txt 
+: 1725613994:0;tmux ls
+: 1725614014:0;nvim ~/.zshrc
+: 1725614120:0;source ~/.zshrc
+: 1725614122:0;ls
+: 1725614125:0;tmux
+: 1725614179:0;tls
+: 1725614201:0;attach 1
+: 1725614214:0;new bash
+: 1725614223:0;tls
+: 1725614228:0;attach bash
+: 1725614261:0;nvim ~/.zshrc
+: 1725614398:0;source ~/.zshrc
+: 1725614400:0;ls
+: 1725614403:0;tls
+: 1725614410:0;tkill 0
+: 1725614412:0;tkill 1
+: 1725614414:0;tls
+: 1725614422:0;attach bash
+: 1725614424:0;htop
+: 1725614462:0;history 1 
+: 1725614467:0;ls
+: 1725614472:0;attach bash
+: 1725614484:0;ls
+: 1725614485:0;tl
+: 1725614485:0;s
+: 1725614487:0;tls
+: 1725614531:0;cat alias
+: 1725614536:0;cat aliases
+: 1725614539:0;aliases
+: 1725614541:0;alias
+: 1725614560:0;alias | grep 't'
+: 1725614568:0;alias | grep tmux
+: 1725614630:0;nvim ~/.zshrc
+: 1725614678:0;alias | grep tmux
+: 1725614683:0;source ~/.zshrc
+: 1725614686:0;alias | grep tmux
+: 1725614694:0;tls
+: 1725614699:0;alias | grep tmux
+: 1725614719:0;new 
+: 1725614729:0;new code
+: 1725614731:0;ls
+: 1725614739:0;cd
+: 1725614770:0;pwd
+: 1725615407:0;rls
+: 1725615408:0;tls
+: 1725615422:0;attach code
+: 1725615455:0;nvim ~/.zshrc
+: 1725615566:0;ls
+: 1725615578:0;exit
+: 1725615579:0;eit
+: 1725615582:0;exit
+: 1725615586:0;ls
+: 1725615589:0;exit
+: 1725615601:0;ls
+: 1725615616:0;tls
+: 1725615688:0;cat cmds.txt 
+: 1725615741:0;nvim 
+: 1725615768:0;tmux
+: 1725616221:0;tls
+: 1725616226:0;git clone https://github.com/LazyVim/starter ~/.config/nvim
+: 1725616233:0;rm -rf ~/.config/nvim/.git
+: 1725616238:0;nvim
+: 1725616597:0;vim
+: 1725616611:0;nvim .
+: 1725616641:0;nvim
+: 1725643652:0;z 
+: 1725643664:0;z wo
+: 1725643665:0;ls
+: 1725643677:0;cat info.txt
+: 1725643698:0;cat test.js
+: 1725643708:0;cd myproject
+: 1725643709:0;l
+: 1725643716:0;cat countdown.html
+: 1725643730:0;cat time
+: 1725643733:0;cd time
+: 1725643734:0;ls
+: 1725643737:0;cd ..
+: 1725643743:0;ls
+: 1725643751:0;open countdown.html
+: 1725643772:0;cd circle
+: 1725643773:0;ls
+: 1725643782:0;open text.html
+: 1725643787:0;cd ..
+: 1725643788:0;ls
+: 1725643799:0;cd teslalandingpage
+: 1725643800:0;ls
+: 1725643806:0;open tesla.html
+: 1725643817:0;cd ..
+: 1725643820:0;ls
+: 1725643834:0;code .
+: 1725643984:0;pwd
+: 1725644023:0;nvim ~/.zshrc
+: 1725644057:0;source ~/.zshrc
+: 1725644059:0;ls
+: 1725644120:0;sudo mv emptyfile.js contents.js
+: 1725644199:0;sudo cp emptyfile.js scripts
+: 1725644230:0;sudo cp emptyfile.js /home/shiva
+: 1725644236:0;open scripts
+: 1725644251:0;alias
+: 1725644283:0;ls
+: 1725644292:0;alias
+: 1725644300:0;sudo cp emptyfile.js scripts
+: 1725644339:0;sudo cp emptyfile.js /home/shiva/.local/share/nemo/scripts
+: 1725644352:0;open scripts
+: 1725644360:0;cd scripts
+: 1725644383:0;cd /home/shiva/.local/share/nemo/scriptsscripts
+: 1725644389:0;cd /home/shiva/.local/share/nemo/scripts
+: 1725644391:0;ls
+: 1725644415:0;sudo rm -r .
+: 1725644421:0;cd ..
+: 1725644434:0;cd scripts
+: 1725644440:0;sudo rm emptyfile.js
+: 1725644446:0;sudo rm test.py
+: 1725644447:0;ls
+: 1725644451:0;cd 
+: 1725644462:0;z wok
+: 1725644465:0;z wo
+: 1725644465:0;ls
+: 1725644468:0;cd myproject
+: 1725644469:0;ls
+: 1725644479:0;install npm
+: 1725644617:0;node test.js
+: 1725644692:0;ls
+: 1725644695:0;node emptyfile.js
+: 1725645012:0;ls
+: 1725645013:0;pwd
+: 1725645024:0;cd myproject
+: 1725645025:0;ls
+: 1725645030:0;node emptyfile.js
+: 1725645039:0;nvim emptyfile.js
+: 1725645058:0;node emptyfile.js
+: 1725645070:0;nvim emptyfile.js
+: 1725645768:0;ls
+: 1725645771:0;cd
+: 1725645772:0;ls
+: 1725645777:0;cd /
+: 1725645777:0;ls
+: 1725645785:0;cd mnt
+: 1725645786:0;ls
+: 1725645807:0;cd ..
+: 1725645810:0;cd media
+: 1725645811:0;ls
+: 1725645814:0;cd shiva
+: 1725645815:0;ls
+: 1725645819:0;cd ..
+: 1725645839:0;pwd
+: 1725645850:0;ls
+: 1725645866:0;cd
+: 1725645869:0;cd /run/user/1000/gvfs/google-drive:host=gmail.com,user=shivayadav.123.007/0AFGwM2a_9srTUk9PVA
+: 1725645870:0;ls
+: 1725645884:0;mkdir test
+: 1725645886:0;ls
+: 1725645905:0;cd
+: 1725645905:0;ls
+: 1725645919:0;sudo cp /home/shiva/code .
+: 1725645925:0;sudo cp -r /home/shiva/code .
+: 1725645950:0;cd code
+: 1725645950:0;ls
+: 1725645952:0;pwd
+: 1725645960:0;cd
+: 1725645962:0;cd 
+: 1725645972:0;touch test.txt
+: 1725645981:0;sudo cp /home/shiva/test.txt .
+: 1725646059:0;pwd
+: 1725646060:0;ls
+: 1725646075:0;sudo cp /home/shiva/code .
+: 1725646081:0;sudo cp -r /home/shiva/code .
+: 1725646147:0;l
+: 1725646155:0;cd linux
+: 1725646225:0;sudo cp -r /home/shiva/code ./LINUX
+: 1725646290:0;cd
+: 1725646302:0;install Samba
+: 1725646314:0;install samba
+: 1725646336:0;which samba
+: 1725646398:0;cd .config
+: 1725646399:0;ls
+: 1725646664:0;code .
+: 1725646878:0;ls
+: 1725646887:0;mv emptyfile.js contents
+: 1725646891:0;node contents
+: 1725646946:0;ls
+: 1725646967:0;sudo rm emptyfile.js
+: 1725646997:0;node contents
+: 1725647236:0;ls
+: 1725649030:0;pwd
+: 1725649289:0;cd
+: 1725649300:0;sudo cp -r /home/shiva/code ./
+: 1725649325:0;sudo cp -r /home/shiva/code /media/shiva/'New Volume'
+: 1725650521:0;node test.js
+: 1725650529:0;cat test.
+: 1725650535:0;cat test.js
+: 1725650559:0;nvim test.js
+: 1725650686:0;rm cmds.txt
+: 1725650690:0;ls
+: 1725650700:0;sudo rm cmds.txt
+: 1725650735:0;ls
+: 1725650739:0;rm cmds.txt
+: 1725650748:0;cd code
+: 1725650749:0;ls
+: 1725652221:0;lsblk
+: 1725652257:0;fdisk
+: 1725652272:0;blkid
+: 1725652291:0;sudo extundelete /dev/sda
+: 1725652302:0;sudo photorec /dev/sda
+: 1725652311:0;sudo testdisk /dev/sda
+: 1725805112:0;git clone https://github.com/linuxdotexe/nordic-wallpapers.git
+: 1725806418:0;cd /usr
+: 1725806427:0;cd share/backgrounds
+: 1725806428:0;ls
+: 1725806436:0;rm ALLqk82.png
+: 1725806446:0;open .
+: 1725807677:0;sudo rm gnu-linux.png
+: 1725865219:0;ls
+: 1725865237:0;cd code
+: 1725865330:0;py test.py
+: 1725865331:0;ls
+: 1725865434:0;cd python
+: 1725865434:0;ls
+: 1725865441:0;ls basics
+: 1725865451:0;cd baiscs
+: 1725865454:0;cd basics
+: 1725865459:0;py main.py
+: 1725865468:0;py set.py
+: 1725865480:0;py sumofdigits.py
+: 1725865522:0;py BOLD\ fn.py
+: 1725867206:0;py pascals\ traingle.py
+: 1725867226:0;py random\ choice.py
+: 1725867249:0;py maths\ operation.py
+: 1725867608:0;cd P
+: 1725867612:0;cd Pictures
+: 1725867613:0;ls
+: 1725867621:0;open Screenshot\ from\ 2024-09-09\ 12-59-28.png
+: 1725867651:0;sl
+: 1725867651:0;ls
+: 1725873341:0;py dictionary.py
+: 1725873430:0;cd ..
+: 1725873431:0;ls
+: 1725873486:0;cd ..
+: 1725873487:0;ls
+: 1725873490:0;l
+: 1725873500:0;cd .
+: 1725873502:0;ls
+: 1725873507:0;l
+: 1725873689:0;sudo rm myproject myprojects
+: 1725873702:0;sudo mv myproject myprojects
+: 1725873704:0;l
+: 1725873735:0;cat cmds.txt 
+: 1725873877:0;git config --global user.email "shivayadav.123.007@gmail.com"\
+git config --global user.name "shiva"
+: 1725873891:0;ssh-keygen -t rsa -b 4096 -C "shivayadav.123.007@gmail.com"
+: 1725873906:0;eval "$(ssh-agent -s)"
+: 1725873915:0;ssh-add -K ~/.ssh/id_rsa
+: 1725873929:0;cat ~/.ssh/id_rsa.pub
+: 1725873947:0;ls
+: 1725873951:0;cd gits
+: 1725873952:0;ls
+: 1725873956:0;cd testrepo
+: 1725873958:0;ls
+: 1725873967:0;git pull
+: 1725874220:0;ls
+: 1725874225:0;cd protest
+: 1725874226:0;ls
+: 1725874232:0;git status
+: 1725874239:0;git add .
+: 1725874262:0;git status
+: 1725874274:0;git add
+: 1725874279:0;git add .
+: 1725874294:0;git status
+: 1725874303:0;git commit -m 'just commited'
+: 1725874324:0;git status
+: 1725874339:0;git push
+: 1725874355:0;git pull
+: 1725874373:0;cd ..
+: 1725874376:0;ls
+: 1725874383:0;sudo rm -r testrepo
+: 1725874384:0;ls
+: 1725874427:0;git clone https://github.com/shiva-yadav-606/testrepo.git
+: 1725874463:0;git clone git@github.com:shiva-yadav-606/testrepo.git
+: 1725874466:0;ls
+: 1725874469:0;cd test
+: 1725874473:0;cd testrepo
+: 1725874476:0;ls
+: 1725874481:0;cd ..
+: 1725874485:0;sudo rm -r testrepo
+: 1725874513:0;git clone git@github.com:shiva-yadav-606/testrepo.git
+: 1725874518:0;ls
+: 1725874520:0;cd testrepo
+: 1725874521:0;ls
+: 1725874526:0;git status
+: 1725874530:0;l
+: 1725874537:0;py testing.py
+: 1725874553:0;node index.js
+: 1725875460:0;chsh 
+: 1725875471:0;ls
+: 1725875644:0;alias
+: 1725875652:0;alias | grep tmux
+: 1725875720:0;new vim
+: 1725875739:0;cd
+: 1725875742:0;ls
+: 1725875762:0;exit
+: 1725875768:0;tls
+: 1725875771:0;new code
+: 1725875777:0;new cde
+: 1725875806:0;new nvim
+: 1725875821:0;ls
+: 1725875830:0;nvim testing.py
+: 1725875837:0;ls
+: 1725875860:0;cd testrepo
+: 1725875892:0;tls
+: 1725875899:0;tkill 1
+: 1725875904:0;tkill code
+: 1725875905:0;tls
+: 1725875934:0;at nvim
+: 1725877473:0;cd
+: 1725877478:0;ls
+: 1725877491:0;at nvim
+: 1725877571:0;eexit
+: 1725877572:0;exit
+: 1725877577:0;tls
+: 1725879006:0;nvim ~/.zshrc
+: 1725879042:0;ls
+: 1725879044:0;cd code
+: 1725879046:0;ls
+: 1725879052:0;cd cohort
+: 1725879065:0;cd ..
+: 1725879067:0;cd gits
+: 1725879068:0;ls
+: 1725879127:0;nvim ~/.zshrc
+: 1725879146:0;ls
+: 1725879149:0;cd code
+: 1725879149:0;ls
+: 1725879158:0;cd gits
+: 1725879159:0;ls
+: 1725879162:0;cd
+: 1725879163:0;ls
+: 1725879169:0;z gits
+: 1725879170:0;cd ..
+: 1725879171:0;ls
+: 1725879172:0;l
+: 1725879179:0;cd python
+: 1725879179:0;ls
+: 1725879186:0;cd bacis
+: 1725879189:0;cd basics
+: 1725879190:0;ls
+: 1725879253:0;cd ..
+: 1725879255:0;ls
+: 1725879258:0;cd cohort
+: 1725879259:0;ls
+: 1725879262:0;cd assignments
+: 1725879263:0;ls
+: 1725879267:0;git status
+: 1725879276:0;nvim
+: 1725879288:0;nvim ~/.zshrc
+: 1725879300:0;source ~/.zshrc
+: 1725879302:0;ls
+: 1725879312:0;cd ..
+: 1725879314:0;ls
+: 1725879341:0;nvim ~/.zshrc
+: 1725879357:0;source ~/.zshrc
+: 1725879359:0;ls
+: 1725879373:0;cd assignments
+: 1725879375:0;ls
+: 1725879466:0;nvim ~/.zshrc
+: 1725879479:0;source ~/.zshrc
+: 1725879481:0;ls
+: 1725880531:0;nvim ~/.zshrc
+: 1725880547:0;source ~/.zshrc
+: 1725880551:0;ls
+: 1725880561:0;nvim ~/.zshrc
+: 1725880579:0;source ~/.zshrc
+: 1725880581:0;ls
+: 1725880601:0;nvim ~/.zshrc
+: 1725880611:0;source ~/.zshrc
+: 1725880636:0;nvim ~/.zshrc
+: 1725880643:0;source ~/.zshrc
+: 1725880955:0;npm install --global pure-prompt
+: 1725880981:0;nvim ~/.zshrc
+: 1725881095:0;source ~/.zshrc
+: 1725881114:0;nvim ~/.zshrc
+: 1725881260:0;source ~/.zshrc
+: 1725881279:0;nvim ~/.zshrc
+: 1725881347:0;source ~/.zshrc
+: 1725881361:0;nvim ~/.zshrc
+: 1725881486:0;source ~/.zshrc
+: 1725881502:0;ls
+: 1725881508:0;cd code
+: 1725881508:0;ls
+: 1725881515:0;pwd
+: 1725881524:0;which pure
+: 1725881531:0;whereis pure
+: 1725881547:0;npm install --global pure-prompt
+: 1725881558:0;npm fund
+: 1725881572:0;nano ~/.zshrc
+: 1725881590:0;source ~/.zshrc
+: 1725881600:0;nano ~/.zshrc
+: 1725881612:0;source ~/.zshrc
+: 1725881701:0;git clone https://github.com/sindresorhus/pure.git
+: 1725881705:0;ls
+: 1725881709:0;pwd
+: 1725881711:0;ls
+: 1725881730:0;sudo mv pure /home/shiva
+: 1725881733:0;ls
+: 1725881737:0;cd ..
+: 1725881738:0;ls
+: 1725881742:0;cd pure
+: 1725881743:0;ls
+: 1725881789:0;nano ~/.zshrc
+: 1725881893:0;source ~/.zshrc
+: 1725881898:0;nano ~/.zshrc
+: 1725881921:0;source ~/.zshrc
+: 1725881923:0;ls
+: 1725881928:0;cd code
+: 1725881935:0;cd
+: 1725881936:0;ls
+: 1725881938:0;cd code
+: 1725881939:0;ls
+: 1725881944:0;history 1 
+: 1725881958:0;history 1 |grep pure
+: 1725881961:0;ls
+: 1725881977:0;cd assignments
+: 1725881982:0;cd cohort
+: 1725881986:0;ls
+: 1725881989:0;cd assignments
+: 1725881990:0;ls
+: 1725881994:0;git statust
+: 1725881997:0;git status
+: 1725882081:0;ls
+: 1725882600:0;cd .zsh
+: 1725882601:0;ls
+: 1725882603:0;cd pure
+: 1725882604:0;ls
+: 1725882613:0;git status
+: 1725882641:0;open .
+: 1725882731:0;ls
+: 1725882737:264;nano ~/.zshrc
+: 1725883012:0;source ~/.zshrc
+: 1725883093:0;nano ~/.zshrc
+: 1725883138:0;cd
+: 1725883139:0;ls
+: 1725883147:0;history 1 
+: 1725883155:0;ls
+: 1725883161:0;history 1
+: 1725883165:0;ls
+: 1725883166:0;cd code
+: 1725883167:0;ls
+: 1725883213:0;cd code
+: 1725883215:0;ls
+: 1725883227:0;cd code
+: 1725883229:0;ls
+: 1725883303:0;cd code
+: 1725883303:0;ls
+: 1725883314:0;nano ~/.zshrc
+: 1725883406:0;source ~/.zshrc
+: 1725883408:0;s
+: 1725883408:0;ls
+: 1725883413:0;cd code
+: 1725883414:0;ls
+: 1725883433:0;cd gits
+: 1725883435:0;ls
+: 1725883437:0;sl
+: 1725883446:0;l
+: 1725883449:0;sl
+: 1725883459:0;cd 
+: 1725883463:0;cd Downloads/ls
+: 1725883465:0;cd Downloads/
+: 1725883466:0;ls
+: 1725883479:0;nano ~/.zshrc
+: 1725883498:0;source ~/.zshrc
+: 1725883500:0;ls
+: 1725883520:0;l
+: 1725883521:0;cdc
+: 1725883522:0;cd
+: 1725883531:0;cd .oh-my-zsh/themes
+: 1725883532:0;ls
+: 1725883537:0;cat essembeh.zsh-theme
+: 1725953513:0;ls
+: 1725953517:0;cd code
+: 1725953517:0;;s
+: 1725953520:0;ls
+: 1725953525:0;sl
+: 1725953526:0;ssl
+: 1725953526:0;sls
+: 1725953595:0;z assi
+: 1725953596:0;ls
+: 1725957540:0;cd python
+: 1725957541:0;ls
+: 1725957545:0;cd exercises
+: 1725957546:0;ls
+: 1725957558:0;py guess\ the\ number.py
+: 1725957605:0;cat guess\ the\ number.py
+: 1725957616:0;ls
+: 1725957622:0;py test.py
+: 1725957626:0;cat test.py
+: 1725957640:0;cat time.py
+: 1725957647:0;py time.py
+: 1725957908:0;nvim time.py
+: 1725957955:0;cd /
+: 1725957963:0;sudo -i
+: 1725957994:0;cd ..
+: 1725957997:0;ls
+: 1725958002:0;cd basics
+: 1725958004:0;ls
+: 1725958008:0;cd ..
+: 1725958027:0;mkdir new-course
+: 1725958028:0;ls
+: 1725958032:0;cd new-course
+: 1725958032:0;ls
+: 1725959274:0;install lm-sensors
+: 1725959305:0;sudo sensors-detect
+: 1725959461:0;sensors
+: 1725959695:0;install hardinfo
+: 1725960518:0;nano test.py
+: 1725960598:0;ls
+: 1725960606:0;chmod +x test.py
+: 1725960607:0;ls
+: 1725960610:0;./test.py
+: 1725960616:0;nvim test.py
+: 1725960650:0;./test.py
+: 1725960655:0;nvim test.py
+: 1725960667:0;nano test.py
+: 1725960675:0;./test.py
+: 1725960690:0;nano bashfile
+: 1725960857:0;ls
+: 1725960868:0;chmod +x bashfile
+: 1725960869:0;ls
+: 1725960872:0;./bashfile
+: 1725960896:0;nano bashfile
+: 1725960907:0;./bashfile
+: 1725962081:0;ls
+: 1725962086:0;nano bashfile
+: 1725962148:0;./bashfile
+: 1725962192:0;cd /home/shiva
+: 1725962203:0;cd /home/shiva/Documents/Backups
+: 1725962212:0;cd plting
+: 1725962214:0;cd ploting
+: 1725962216:0;ls
+: 1725962225:0;nano bashfile
+: 1725962242:0;cd ploting
+: 1725962249:0;./bashfile
+: 1725962272:0;ls
+: 1725962277:0;nano testing
+: 1725962319:0;cd code/python/new-course
+: 1725962320:0;ls
+: 1725962327:0;nano bashfile
+: 1725962347:0;./bashfile
+: 1726209341:0;ls
+: 1726209348:0;cd code
+: 1726209349:0;ls
+: 1726209353:0;which npm
+: 1726209354:0;ls
+: 1726209360:0;l
+: 1726209387:0;code .
+: 1726216992:0;ls
+: 1726217006:0;chmod +x Anaconda3-2024.06-1-Linux-x86_64.sh
+: 1726217007:0;ls
+: 1726217010:0;./Anaconda3-2024.06-1-Linux-x86_64.sh
+: 1726217202:0;which conda
+: 1726217207:0;which anaconda
+: 1726217235:0;ls
+: 1726217713:0;conda init
+: 1726217726:0;cd
+: 1726217727:0;ls
+: 1726217731:0;cd conda
+: 1726217738:0;cd .conda
+: 1726217739:0;ls
+: 1726217746:0;cd 
+: 1726217750:0;cd anaconda3
+: 1726217750:0;l
+: 1726217765:0;cd bin 
+: 1726217767:0;ls
+: 1726217789:0;conda init
+: 1726217826:0;cd
+: 1726217830:0;python3
+: 1726217851:0;ls
+: 1726217897:0;cd python
+: 1726217897:0;ls
+: 1726217902:0;cd new-course
+: 1726217903:0;ls
+: 1726217910:0;py test.py
+: 1726217921:0;ls
+: 1726217933:0;py test.py
+: 1726217941:0;False
+: 1726217979:0;python3
+: 1726218034:0;ls
+: 1726218056:0;cd code/python/new-course
+: 1726218070:0;nvim swp.py
+: 1726218111:0;nvim code/python/new-course
+: 1726218129:0;ls
+: 1726218148:0;touch swp.py
+: 1726218160:0;nvim code/python/new-course/swp.py
+: 1726218203:0;py swp.py
+: 1726218221:0;nano  code/python/new-course/swp.py
+: 1726218411:0;py swp.py
+: 1726218419:0;ls
+: 1726218781:0;py swp.py
+: 1726218845:0;new coding
+: 1726218847:0;ls
+: 1726218869:0;exit
+: 1726218871:0;tls
+: 1726224014:0;update
+: 1726224030:0;upgrade
+: 1726227903:0;ls
+: 1726227920:0;/bin/python3 /home/shiva/code/python/new-course/test.py
+: 1726228117:0;py test.py
+: 1726228179:0;ls
+: 1726228214:0;sudo rm bashfile
+: 1726228217:0;ls
+: 1726228523:0;code swp.py
+: 1726228540:0;ls
+: 1726228562:0;py swp.py
+: 1726228631:0;python3
+: 1726228639:0;ls
+: 1726228644:0;py swp.py
+: 1726233912:0;ls
+: 1726235322:0;cd code
+: 1726235323:0;ls
+: 1726235361:0;alias
+: 1726235379:0;la
+: 1726235381:0;l
+: 1726235399:0;ll
+: 1726235411:0;lsa
+: 1726235450:0;chsh
+: 1726235459:0;ls
+: 1726235481:0;chsh
+: 1726235503:0;ls
+: 1726235506:0;cd code
+: 1726235511:0;alias
+: 1726235514:0;ls
+: 1726235643:0;alias
+: 1726235909:0;ls
+: 1726235916:0;cd python
+: 1726235917:0;ls
+: 1726235922:0;cd basics
+: 1726235923:0;ls
+: 1726235930:0;cd ..
+: 1726235933:0;cd exercises
+: 1726235934:0;ls
+: 1726235942:0;py time.py
+: 1726235948:0;cat time.py
+: 1726236088:0;ls
+: 1726236210:0;py swp.py
+: 1726236737:0;ls
+: 1726237550:0;py main.py
+: 1726237918:0;LL
+: 1726237922:0;ll
+: 1726239436:0;ls
+: 1726239440:0;cd coed
+: 1726239442:0;cd code

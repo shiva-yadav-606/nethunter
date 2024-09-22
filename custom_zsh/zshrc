@@ -1,0 +1,87 @@
+
+# AUTOCOMPLETION
+
+# initialize autocompletion
+autoload -U compinit
+compinit
+
+# history setup
+setopt APPEND_HISTORY
+setopt SHARE_HISTORY
+HISTFILE=$HOME/.zsh_history
+SAVEHIST=1000
+HISTSIZE=999
+setopt HIST_EXPIRE_DUPS_FIRST
+setopt EXTENDED_HISTORY
+
+# autocompletion using arrow keys (based on history)
+bindkey '\e[A' history-search-backward
+bindkey '\e[B' history-search-forward
+
+#never beep
+setopt NO_BEEP
+
+
+# PLUGINS
+source ~/.zsh/plugins/git/git-prompt.sh
+source ~/.zsh/plugins/zsh-z/zsh-z.plugin.sh
+source ~/.zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# git prompt options
+GIT_PS1_SHOWDIRTYSTATE=true
+GIT_PS1_SHOWSTASHSTATE=true
+GIT_PS1_SHOWUNTRACKEDFILES=true
+GIT_PS1_SHOWUPSTREAM="auto"
+GIT_PS1_STATESEPARATOR=' '
+GIT_PS1_HIDE_IF_PWD_IGNORED=true
+GIT_PS1_COMPRESSSPARSESTATE=true
+
+
+# zsh-z plugin options
+ZSH_CASE=smart # lower case patterns are treated as case insensitive
+zstyle ':completion:*' menu select # improve completion menu style
+zstyle ':completion:*' list-colors ' '
+
+
+# USER PROMPT
+# enable command-subsitution in PS1
+setopt PROMPT_SUBST
+
+PS1=$'%{\e[0;34m%}%B┌─[%b%{\e[0m%}%{\e[1;32m%}%n%{\e[1;30m%}@%{\e[0m%}%{\e[0;36m%}%m%{\e[0;34m%}%B]%b%{\e[0m%} - %b%{\e[0;34m%}%B[%b%{\e[1;37m%}%~%{\e[0;34m%}%B]%b%{\e[0m%} - %{\e[0;34m%}%B[%b%{\e[0;33m%}'%D{"%a %b %d, %H:%M"}%b$'%{\e[0;34m%}%B]%b%{\e[0m%}
+%{\e[0;34m%}%B└─%B[%{\e[1;35m%}$%{\e[0;34m%}%B]>%{\e[0m%}%b '
+PS2=$' \e[0;34m%}%B>%{\e[0m%}%b %F{red}$(__git_ps1 " (%s)")%f '
+#%B%(?.%F{green}.%F{red})%(!.#.🡪)%f%b
+#%U-%u....underline
+#%S-%s...highlight
+#%K{}-%k...backforundcolor
+#%B-%b...start and end of bold
+#%F{}-%f...start and end of color
+#%3....nmber of directory to be shown(default to entire path is 0)
+#$ fo new segment
+#%(?.<true >.<false>)based on prevoius responce
+#%(!.<>.<>)based on user
+
+
+
+#aliases
+alias install='sudo nala install'
+alias remove='sudo nala remove'
+alias update='sudo nala update'
+alias upgrade='sudo nala upgrade'
+alias ls='ls --color=auto'
+alias dir='dir --color=auto'
+#alias grep='grep --color=auto'
+alias py='python3'
+alias cursor='./Downloads/cursor-0.40.3x86_64.AppImage'
+alias at='tmux attach -t'
+alias new='tmux new -s'
+alias tkill='tmux kill-session -t'
+alias tls='tmux ls'
+
+
+
+
+
+
+
